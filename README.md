@@ -38,7 +38,12 @@ Follow these steps to set up the project:
 - Helper functions for preprocessing and evaluation in `helper.py`.  
 
 
-**Sample Video Output:**<br>
+**Sample Pose Prediction Output:**<br>
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/88816150/189837009-a7344d98-d795-4bc4-b1fd-640e772221f7.gif' alt="animated" />
+  <img src='https://user-images.githubusercontent.com/88816150/189837009-a7344d98-d795-4bc4-b1fd-640e772221f7.gif' alt="Pose" />
 </p>
+**Final Output after model is trained:**<br>
+<p align="center">
+  <img src='https://github.com/EdrichCardozo06/PoseDetect-CNN_Mobilenetv3/blob/main/Results/model_results.png' alt="model_accuracy" />
+</p>
+
